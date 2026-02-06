@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "deps": {
+    "tekihei2317/hello": {
+      "path": "../"
+    }
+  }
+}

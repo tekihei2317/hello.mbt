@@ -1,0 +1,10 @@
+{
+  "name": "tekihei2317/hello",
+  "version": "0.0.2",
+  "license": "MIT",
+  "readme": "README.md",
+  "keywords": ["example", "hello-world"],
+  "repository": "https://github.com/tekihei2317/hello.mbt",
+  "description": "Example module",
+  "homepage": "https://github.com/tekihei2317/hello.mbt"
+}
