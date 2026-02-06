@@ -10,13 +10,20 @@ moon add tekihei2317/hello
 
 ## Usage
 
-```moon
-import tekihei2317/hello
+`moon.pkg.json`
 
-hello.hello_world()
+```json
+{
+  "import": ["tekihei2317/hello"]
+}
+```
+
+
+```mbt
+@hello.hello_world()
 // Hello, world
 
-hello.greeting("alice")
+@hello.greeting("alice")
 // Hello, alice
 ```
 
